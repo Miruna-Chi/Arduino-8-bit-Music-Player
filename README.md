@@ -37,9 +37,10 @@ The project contains 5 source files: the main code, a library that contains note
 The player is actually a song scheduler which frequently reads the input from the aforementioned buttons and makes a decision.
 
 # Block Diagram
+![](./Pictures/Block Diagram.jpeg?raw=true "Title")
 
 # Circuit Diagram
-
+![](./Pictures/Circuit Diagram.jpeg?raw=true "Title")
 
 # Resources
 
